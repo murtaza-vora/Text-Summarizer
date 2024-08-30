@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: text_summarization
+Version: 0.0.0
+Summary: This is a simple Python package for text summarization.
+Home-page: https://github.com/Text-Summarizer
+Author: Murtaza
+Author-email: voramurtaza2000@gmail.com
+Project-URL: bug tracker, https://github.com/Text-Summarizer/issues
+Description-Content-Type: text/markdown
+
+ Text-summarizer-Project
